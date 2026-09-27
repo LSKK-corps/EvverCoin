@@ -2,7 +2,7 @@
     "name": "EvverCoin",
     "symbol": "EVVC",
     "description": "The coin of EVERYONE.",
-    "image": "https://<your-pinata-id>.mypinata.cloud/ipfs/<CID>",
+    "image": "https://raw.githubusercontent.com/LSKK-corps/EvverCoin/refs/heads/main/e474563e5f44d1d64461ed1bdfdaec08.png",
     "external_url": "https://mycoinwebsite.com",
     "attributes": [
       {
@@ -17,7 +17,7 @@
     "properties": {
       "files": [
         {
-          "uri": "https://<your-pinata-id>.mypinata.cloud/ipfs/<CID>",
+          "uri": "https://raw.githubusercontent.com/LSKK-corps/EvverCoin/refs/heads/main/e474563e5f44d1d64461ed1bdfdaec08.png",
           "type": "image/png"
         }
       ],
